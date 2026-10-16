@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Fundo Portal (Hub Central) -->
+  <rect x="10" y="10" width="80" height="80" rx="12" fill="#EC4899" />
+  
+  <!-- Interface do Portal / Janela do Navegador -->
+  <rect x="20" y="28" width="60" height="44" rx="6" fill="#ffffff" />
+  
+  <!-- Cabeçalho da Janela -->
+  <path d="M 20 34 C 20 30.7 22.7 28 26 28 L 74 28 C 77.3 28 80 30.7 80 34 L 80 38 L 20 38 Z" fill="#FBCFE8" />
+  
+  <!-- Botões de Navegação (Estilo Interface) -->
+  <circle cx="28" cy="33" r="2.5" fill="#EC4899" />
+  <circle cx="36" cy="33" r="2.5" fill="#EC4899" />
+  
+  <!-- Menu Lateral (Sidebar) -->
+  <rect x="24" y="42" width="14" height="24" rx="3" fill="#FBCFE8" />
+  
+  <!-- Conteúdo Principal / Módulos -->
+  <rect x="42" y="42" width="34" height="10" rx="3" fill="#FBCFE8" />
+  <rect x="42" y="56" width="34" height="10" rx="3" fill="#FBCFE8" />
+</svg>

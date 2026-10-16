@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Fundo Script -->
+  <rect x="10" y="10" width="80" height="80" rx="12" fill="#1E293B" />
+  <!-- Símbolos de Código < > -->
+  <path d="M 35 35 L 20 50 L 35 65" fill="none" stroke="#38BDF8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 65 35 L 80 50 L 65 65" fill="none" stroke="#38BDF8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Barra Central / -->
+  <line x1="56" y1="28" x2="44" y2="72" stroke="#F43F5E" stroke-width="7" stroke-linecap="round" />
+</svg>
